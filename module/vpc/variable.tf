@@ -1,0 +1,2 @@
+variable "mycidr"{}
+variable "myVpcName"{}
