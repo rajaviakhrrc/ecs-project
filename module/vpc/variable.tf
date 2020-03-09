@@ -17,7 +17,7 @@ variable "sub_private_name" {
 variable = "sub_private_cidr_1"{
  default = "10.0.0.0/24"
 }
-variablen = "sub_private_cidr_2"{
+variable = "sub_private_cidr_2"{
   default = "10.0.1.0/24"
 }
 variable "sub_public_name"{
